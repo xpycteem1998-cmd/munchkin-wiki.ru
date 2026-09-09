@@ -1,0 +1,36 @@
+{
+  "classification_is_heuristic": true,
+  "downloaded_non_html_captures": 348,
+  "unique_resource_paths": 346,
+  "by_classification": {
+    "drupal_munchkindb_candidate": 168,
+    "post_2024_domain_reuse": 116,
+    "unclassified": 1,
+    "unrelated_legacy_candidate": 63
+  },
+  "by_source": {
+    "commoncrawl": 2,
+    "wayback": 346
+  },
+  "by_mime": {
+    "application/font-woff": 2,
+    "application/javascript": 42,
+    "application/json": 2,
+    "application/octet-stream": 5,
+    "application/rss+xml": 7,
+    "application/vnd.ms-fontobject": 1,
+    "application/x-javascript": 10,
+    "application/xml": 1,
+    "font/ttf": 1,
+    "image/gif": 41,
+    "image/jpeg": 52,
+    "image/png": 57,
+    "image/svg+xml": 52,
+    "image/webp": 18,
+    "image/x-icon": 3,
+    "text/css": 48,
+    "text/plain": 2,
+    "text/xml": 1,
+    "unk": 3
+  }
+}

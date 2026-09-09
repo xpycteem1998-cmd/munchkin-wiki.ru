@@ -1,0 +1,17 @@
+# Recovery evidence: retained locally, not required to build the website.
+/raw/
+/data/
+/munchkindb.sqlite
+/munchkindb.sqlite-*
+
+# Local runtime and editor files.
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example

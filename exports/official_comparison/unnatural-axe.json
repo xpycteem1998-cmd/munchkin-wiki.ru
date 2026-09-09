@@ -1,0 +1,26 @@
+{
+  "set_slug": "unnatural-axe",
+  "recovered_set_title": "Unnatural Axe",
+  "official_source_url": "https://munchkin.game/products/games/munchkin/munchkin-2-unnatural-axe/",
+  "retrieved_at": "2026-09-06T09:06:37Z",
+  "official_expected_by_section": {
+    "Doors": 66,
+    "Treasures": 46
+  },
+  "official_physical_cards": 112,
+  "official_blank_cards": 4,
+  "official_unique_named_cards": 102,
+  "official_duplicate_names": {
+    "(Blank)": 4,
+    "Curse! Cursed Thingy": 2,
+    "Loaded Die": 2,
+    "Orc": 4,
+    "Wandering Monster": 2
+  },
+  "recovered_unique_named_cards": 102,
+  "matched_unique_names": 102,
+  "missing_from_recovered_by_normalized_name": [],
+  "extra_in_recovered_by_normalized_name": [],
+  "comparison_note": "Current official edition and archived MunchkinDB may represent different printings; unmatched names require manual review.",
+  "raw_official_metadata": "raw/external/official/unnatural-axe_20260906T090637Z.json"
+}

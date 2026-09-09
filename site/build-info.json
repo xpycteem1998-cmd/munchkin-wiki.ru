@@ -1,0 +1,28 @@
+{
+  "cards": 4049,
+  "sets": 73,
+  "rulings": 53,
+  "faq": 59,
+  "faq_pages": 5,
+  "faq_groups": 8,
+  "source_sets": 129,
+  "source_rulings": 59,
+  "faq_rulings": 53,
+  "editorial_faq": 1,
+  "catalog_pages": 41,
+  "ruling_redirects": 6,
+  "legacy_ruling_redirects": 59,
+  "empty_sets_removed": 50,
+  "set_aliases_merged": 8,
+  "set_groups": 22,
+  "current_numbered_sets": 11,
+  "supplemental_sets": 2,
+  "asset_versions": {
+    "styles.css": "7b65394476c8",
+    "app.js": "792918bd32f1"
+  },
+  "comments": 41,
+  "search_records": 4182,
+  "html_pages": 4290,
+  "output": "site"
+}

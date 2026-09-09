@@ -1,0 +1,779 @@
+{
+  "generated_at": "2026-09-09T18:13:34Z",
+  "scope": "Numbered expansions for the original fantasy Munchkin line",
+  "sets": [
+    {
+      "slug": "munchkin",
+      "series_number": null,
+      "series_label": "База",
+      "title": "Munchkin",
+      "official_url": "https://www.munchkin.game/products/games/munchkin/",
+      "sources": [
+        {
+          "title": "Официальная страница — Munchkin",
+          "url": "https://www.munchkin.game/products/games/munchkin/",
+          "kind": "official"
+        },
+        {
+          "title": "Munchkin Wiki — каталог базовой серии",
+          "url": "https://munchkin.fandom.com/wiki/Munchkin_Wiki",
+          "kind": "community"
+        }
+      ]
+    },
+    {
+      "slug": "unnatural-axe",
+      "series_number": "2",
+      "series_label": "№ 2",
+      "title": "Unnatural Axe",
+      "official_url": "https://www.munchkin.game/products/games/munchkin/munchkin-2-unnatural-axe/",
+      "sources": [
+        {
+          "title": "Официальная страница — Unnatural Axe",
+          "url": "https://www.munchkin.game/products/games/munchkin/munchkin-2-unnatural-axe/",
+          "kind": "official"
+        },
+        {
+          "title": "Munchkin Wiki — каталог базовой серии",
+          "url": "https://munchkin.fandom.com/wiki/Munchkin_Wiki",
+          "kind": "community"
+        }
+      ]
+    },
+    {
+      "slug": "clerical-errors",
+      "series_number": "3",
+      "series_label": "№ 3",
+      "title": "Clerical Errors",
+      "official_url": "https://www.munchkin.game/products/games/munchkin/munchkin-3-clerical-errors/",
+      "sources": [
+        {
+          "title": "Официальная страница — Clerical Errors",
+          "url": "https://www.munchkin.game/products/games/munchkin/munchkin-3-clerical-errors/",
+          "kind": "official"
+        },
+        {
+          "title": "Munchkin Wiki — каталог базовой серии",
+          "url": "https://munchkin.fandom.com/wiki/Munchkin_Wiki",
+          "kind": "community"
+        }
+      ]
+    },
+    {
+      "slug": "the-need-for-steed",
+      "series_number": "4",
+      "series_label": "№ 4",
+      "title": "The Need for Steed",
+      "official_url": "https://www.munchkin.game/products/games/munchkin/munchkin-4-the-need-for-steed/",
+      "sources": [
+        {
+          "title": "Официальная страница — The Need for Steed",
+          "url": "https://www.munchkin.game/products/games/munchkin/munchkin-4-the-need-for-steed/",
+          "kind": "official"
+        },
+        {
+          "title": "Munchkin Wiki — каталог базовой серии",
+          "url": "https://munchkin.fandom.com/wiki/Munchkin_Wiki",
+          "kind": "community"
+        }
+      ]
+    },
+    {
+      "slug": "de-ranged",
+      "series_number": "5",
+      "series_label": "№ 5",
+      "title": "De-Ranged",
+      "official_url": "https://www.munchkin.game/products/games/munchkin/munchkin-5-de-ranged/",
+      "sources": [
+        {
+          "title": "Официальная страница — De-Ranged",
+          "url": "https://www.munchkin.game/products/games/munchkin/munchkin-5-de-ranged/",
+          "kind": "official"
+        },
+        {
+          "title": "Munchkin Wiki — каталог базовой серии",
+          "url": "https://munchkin.fandom.com/wiki/Munchkin_Wiki",
+          "kind": "community"
+        }
+      ]
+    },
+    {
+      "slug": "demented-dungeons",
+      "series_number": "6",
+      "series_label": "№ 6",
+      "title": "Demented Dungeons",
+      "official_url": "https://www.munchkin.game/products/games/munchkin/munchkin-6-demented-dungeons/",
+      "sources": [
+        {
+          "title": "Официальная страница — Demented Dungeons",
+          "url": "https://www.munchkin.game/products/games/munchkin/munchkin-6-demented-dungeons/",
+          "kind": "official"
+        },
+        {
+          "title": "Munchkin Wiki — каталог базовой серии",
+          "url": "https://munchkin.fandom.com/wiki/Munchkin_Wiki",
+          "kind": "community"
+        }
+      ]
+    },
+    {
+      "slug": "terrible-tombs",
+      "series_number": "6.5",
+      "series_label": "№ 6.5",
+      "title": "Terrible Tombs",
+      "official_url": "https://www.munchkin.game/products/games/munchkin/munchkin-6.5-terrible-tombs/",
+      "sources": [
+        {
+          "title": "Официальная страница — Terrible Tombs",
+          "url": "https://www.munchkin.game/products/games/munchkin/munchkin-6.5-terrible-tombs/",
+          "kind": "official"
+        },
+        {
+          "title": "Munchkin Wiki — каталог базовой серии",
+          "url": "https://munchkin.fandom.com/wiki/Munchkin_Wiki",
+          "kind": "community"
+        }
+      ]
+    },
+    {
+      "slug": "cheat-with-both-hands",
+      "series_number": "7",
+      "series_label": "№ 7",
+      "title": "Cheat With Both Hands",
+      "official_url": "https://www.munchkin.game/products/games/munchkin/munchkin-7-cheat-with-both-hands/",
+      "sources": [
+        {
+          "title": "Официальная страница — Cheat With Both Hands",
+          "url": "https://www.munchkin.game/products/games/munchkin/munchkin-7-cheat-with-both-hands/",
+          "kind": "official"
+        },
+        {
+          "title": "Munchkin Wiki — каталог базовой серии",
+          "url": "https://munchkin.fandom.com/wiki/Munchkin_Wiki",
+          "kind": "community"
+        }
+      ]
+    },
+    {
+      "slug": "half-horse-will-travel",
+      "series_number": "8",
+      "series_label": "№ 8",
+      "title": "Half Horse, Will Travel",
+      "official_url": "https://www.munchkin.game/products/games/munchkin/munchkin-8-half-horse-will-travel/",
+      "sources": [
+        {
+          "title": "Официальная страница — Half Horse, Will Travel",
+          "url": "https://www.munchkin.game/products/games/munchkin/munchkin-8-half-horse-will-travel/",
+          "kind": "official"
+        },
+        {
+          "title": "Munchkin Wiki — каталог базовой серии",
+          "url": "https://munchkin.fandom.com/wiki/Munchkin_Wiki",
+          "kind": "community"
+        }
+      ]
+    },
+    {
+      "slug": "jurassic-snark",
+      "series_number": "9",
+      "series_label": "№ 9",
+      "title": "Munchkin 9 — Jurassic Snark",
+      "official_url": "https://www.munchkin.game/products/games/munchkin/munchkin-9-jurassic-snark/",
+      "sources": [
+        {
+          "title": "Официальная страница — Munchkin 9 — Jurassic Snark",
+          "url": "https://www.munchkin.game/products/games/munchkin/munchkin-9-jurassic-snark/",
+          "kind": "official"
+        },
+        {
+          "title": "Munchkin Wiki — каталог базовой серии",
+          "url": "https://munchkin.fandom.com/wiki/Munchkin_Wiki",
+          "kind": "community"
+        }
+      ],
+      "declared_card_count": 112,
+      "cards": [
+        {
+          "section": "Doors",
+          "title_en": "Anachronistic Mammal",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Ankylowattosaurus",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Baby Dinos",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Bard",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Bronto Steed",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Centaur",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Cheat!",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Chorus Saurus",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Cleric",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Curse! Little Tiny Arms!",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Curse! Prehysteria!",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Curse! Saur Loser!",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Curse! Surrounded!",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Curse! Tar Pit!",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Curse! Tree Too Short!",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Curse! Volcano!",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Dino Hireling",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Dino Vine",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Docile Fossil",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Duck-Billed Dinosaur",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Dwarf",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Early Bird",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Elf",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Elvisaurus",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Erratasaurus",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Gnome",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Hairbivore",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Half-Breed",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Halfling",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Hineysaur",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Hostile Fossil",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Humongosaur Steed",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Inflatable Dino",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Junior Paleontologist Hireling",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Lizard Guy",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Meano Dino",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Munchkinivorous",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Necrosaurus",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Orc",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Paleontologist Hireling",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Plushiesaurus",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Pterana Don",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Ptero Steed",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Ranger",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Raptor Steed",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Rexy",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Rhinosaur",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Roarosaurus",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Spiky Steed",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Spiny Diny",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Spykeosaurus",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Super Munchkin",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Thief",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Tinysaurus Rex",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Tour Guide Hireling",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Unknown to Science",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Velocirapper",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Very Junior Paleontologist Hireling",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Wandering Monster",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Wandering Monster",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Warrior",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Wino Dino",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": ". . . With a Brain the Size of a Walnut",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": ". . . With Horns",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": ". . . With Pterodactyl Wings",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": ". . . With Tail Spikes",
+          "title_ru": ""
+        },
+        {
+          "section": "Doors",
+          "title_en": "Wizard",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Amber",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Backbone Bow",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Backtrackers",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Bitey Dino Head",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Cammo Armor",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Coprolites",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Cute",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Dino Colada",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Dino Disguise",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Dino Eggs",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Dino Tooth Dagger",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Dino Tracks",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Dino-Myte",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Dinosaur Wishbone",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Dire Fire",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Discover a New Species",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Escape Claws",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Escape Extinction",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Fossil Stilts",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Fossilizing Fluid",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Graaaaar!",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Hit 'Em With a Comet!",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Huge Head Helmet",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Jurassic Snark",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Loaded Die",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Loaded Die",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Pachy Helmet",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Paleo Pail",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Plastic Dinosaurs",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Pteriyaki",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Rapid Evolution",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Reloaded Die",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Skull Mace",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Smallifying Glass",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Spiky Pink",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Stego Armor",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Stompy Bronto Feet",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Stone Bone",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Tail Club",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Talons",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Thagomizer",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "The Big Book of Dinos",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Tricera Top Hat",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Wishing Ring",
+          "title_ru": ""
+        },
+        {
+          "section": "Treasures",
+          "title_en": "Wishing Ring",
+          "title_ru": ""
+        }
+      ],
+      "coverage": "official_card_list",
+      "raw_official_metadata": "raw/external/official/jurassic-snark_20260909T181334Z.json"
+    },
+    {
+      "slug": "time-warp",
+      "series_number": "10",
+      "series_label": "№ 10",
+      "title": "Munchkin 10 — Time Warp",
+      "official_url": "https://munchkin.game/products/games/munchkin/munchkin-10-time-warp/",
+      "sources": [
+        {
+          "title": "Официальная страница — Munchkin 10 — Time Warp",
+          "url": "https://munchkin.game/products/games/munchkin/munchkin-10-time-warp/",
+          "kind": "official"
+        }
+      ],
+      "declared_card_count": 112,
+      "cards": [],
+      "coverage": "set_metadata_only",
+      "raw_official_metadata": "raw/external/official/time-warp_20260909T181334Z.json"
+    }
+  ]
+}

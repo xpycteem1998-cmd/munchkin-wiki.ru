@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-09-10",
+  "sources": [
+    {"title": "Русские названия серии — Hobby World", "url": "https://hobbyworld.ru/manchkin-4-tjaga-k-konjage"},
+    {"title": "Манчкин 8 — Hobby World", "url": "https://hobbyworld.ru/manchkin-8-v-hvost-i-v-grivu"}
+  ],
+  "titles": {
+    "munchkin": "Манчкин",
+    "unnatural-axe": "Дикий топор",
+    "clerical-errors": "Клирические ошибки",
+    "the-need-for-steed": "Тяга к коняге",
+    "de-ranged": "Следопуты",
+    "demented-dungeons": "Безбашенные подземелья",
+    "terrible-tombs": "Бабайки из склепа",
+    "cheat-with-both-hands": "Двуручный чит",
+    "half-horse-will-travel": "В хвост и в гриву",
+    "jurassic-snark": "Пранк юрского периода"
+  }
+}

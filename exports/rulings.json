@@ -1,0 +1,2141 @@
+[
+  {
+    "slug": "faq-гадкая-парочка-двойной-удар-и-тд",
+    "title": "FAQ Гадкая Парочка, Двойной Удар и тд",
+    "text": "Что происходит, если на монстра сыграли Гадкую Парочку или я сыграл Доппельгангера, после чего меня подрезали или кто-то сыграл зелье на одну из сторон?\nГадкая Парочка не удваивает ничего, кроме Модификаторов монстров (мы ввели это правило в 19м издании чтобы облегчить всем жизнь). Доппельгангер это точная копия игрока – по идее, вам нужно посчитать его боевую силу и удвоить ее.\n\n\nНекоторые карты (Волшебная Лампа, Иллюзия, Зелье Попуморфа и тд) позволяют вывести из боя ОДНОГО монстра. Выходит ли из боя его Парочка (или другие его родственники из дополнений)? Другими словами, Гадкая Парочка – это модификатор, как Старикан или отдельный монстр, как введенный в бой при помощи Бродячей Твари?\nПарочка – это отдельный монстр. То есть у вас теперь два монстра, от каждого из которых нужно избавляться отдельно. Если вы сыграли карту «вывода из боя» до того, как кто-то сыграл Парочку, то монстра, к которому присоединилась бы Парочка, уже нет и Парочку играть нельзя.",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "faq-класс-раса-подданство-акцент",
+    "title": "FAQ Класс, Раса, Подданство, Акцент",
+    "text": "FAQ по Классам, Расам, Подданствам, Акцентам и т.п.",
+    "card_refs": [],
+    "internal_refs": [
+      {
+        "url": "http://munchkindb.ru/content/FAQ_Class-Race",
+        "title": "FAQ по Классам, Расам, Подданствам, Акцентам и т.п."
+      }
+    ],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "faq-монстры",
+    "title": "FAQ Монстры",
+    "text": "FAQ по монстрам",
+    "card_refs": [],
+    "internal_refs": [
+      {
+        "url": "http://munchkindb.ru/content/FAQ_Monsters",
+        "title": "FAQ по монстрам"
+      }
+    ],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "faq-одноразовая-шмотка",
+    "title": "FAQ Одноразовая Шмотка",
+    "text": "В бою я использую одноразовую Шмотку, а кто-то Проклятьем или Воровством пытается от нее избавиться. Бонус остается?\nВоровать во время боя нельзя. Проклятьем можно уничтожить вашу шмотку, но если вы уже сыграли ее в бой, то она уже не ваша, и проклясть ее нельзя.\nВ какой момент карты из игры идут в сброс? Например, во время боя я использую одноразовую шмотку – ее надо сразу сбросить или как?\nОдноразовые карты не идут в сброс до конца боя.\n\nВсе шмотки, на которых написано «одноразовая», работают как Зелья?\nВсе одноразовые шмотки (на которых написано «использовать один раз») могут играться прямо с руки, если не сказано обратного (и на данный момент исключений нет).",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "faq-проклятия",
+    "title": "FAQ Проклятия",
+    "text": "FAQ по Проклятиям",
+    "card_refs": [],
+    "internal_refs": [
+      {
+        "url": "http://munchkindb.ru/FAQ_Curses",
+        "title": "FAQ по Проклятиям"
+      }
+    ],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "faq-разовые-шмотки",
+    "title": "FAQ Разовые Шмотки",
+    "text": "FAQ по разовым шмоткам",
+    "card_refs": [],
+    "internal_refs": [
+      {
+        "url": "http://munchkindb.ru/content/faq-%D0%BF%D0%BE-%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%BC-%D1%88%D0%BC%D0%BE%D1%82%D0%BA%D0%B0%D0%BC",
+        "title": "FAQ по разовым шмоткам"
+      }
+    ],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "faq-следопуты",
+    "title": "FAQ Следопуты",
+    "text": "Получаю ли я сокровища и уровни, если приручаю монстра?\nНет, манчкин. Ты ведь не убил его.\nЕсли я сражаюсь с несколькими монстрами, когда происходит приручение?\nВ первую очередь; твой новый скакун будет помогать тебе против оставшихся в бою монстров.\nКогда я приручаю монстра, что случается с моим старым Скакуном?\nТо же, что и случается, когда ты заменяешь старого Скакуна новым: сбрось старого.\n \nСчитается ли приручённый  Скакун большой шмоткой?\nПоскольку у него нет цены и надписи \"Нет цены\", он не шмотка и на него не оказывают эффекта карты, влияющие не шмотки. Тем не менее, на него распространяются все правила для Скакунов.\n \nКогда я сбрасываю приручённого монстра, что происходит с картой?\nОна отправляется в сброс дверей. Это больше не Скакун, а снова монстр.\nОстанется ли со мной приручённый монстр, если я перестану быть Следопытом?\nКонечно.\nЕсли на монстра до того, как я его приручил, были сыграны зелья, усилители и т.д., что с ними произойдёт?\nПриручение Скакуна подобно Усмирению Волшебником, так что разовые шмотки (если этот монстр в бою был один), усилители и т.д. сбрасываются. (На форуме встречаются противоречивые толкования этого, но вот официальный ответ.)",
+    "card_refs": [
+      {
+        "slug": "ranger",
+        "title": "Ranger",
+        "url": "https://munchkindb.ru/card/ranger"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "faq-сыграть-немедленно",
+    "title": "FAQ Сыграть Немедленно",
+    "text": "Мне нужно вытянуть две карты, после чего сбросить одну из них. Что делать, если на одной из карт написано «сыграть немедленно» («клад», «божественное вмешательство» и т.п)\nЭффект вступает в силу, если вы решили оставить карту именно с этим эффектом. Если же карта с таким эффектом сбрасывается, значит карта в игре не появилась и эффект в силу не вступил.",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "faq-шмотки",
+    "title": "FAQ Шмотки",
+    "text": "FAQ по шмоткам",
+    "card_refs": [],
+    "internal_refs": [
+      {
+        "url": "http://munchkindb.ru/FAQ_Items",
+        "title": "FAQ по шмоткам"
+      }
+    ],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "gual-на-другого-игрока-faq",
+    "title": "GUAL на другого игрока (FAQ)",
+    "text": "Могу ли я сыграть карту «Получи Уровень» на другого игрока – например, что бы монстр перестал им брезговать?\nИзначальный смысл этих карт был в другом, но это настолько подло и по-манчкински, что мы не можем сказать «нет». То есть вы можете играть карты «Получи Уровень» на других игроков. Но, так же как и в случае игры этой карты на себя, манчкин должен иметь возможность получить этот уровень. Вы не можете играть такую карту на манчкина, если он может получить уровень, только убив монстра.",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "mate-изменения-19-го-тиража",
+    "title": "Mate Изменения 19-го тиража",
+    "text": "Удваивает только Модификаторы Монстров. Убран штраф на смывку",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "Усилители-скакунов",
+    "title": "Усилители скакунов",
+    "text": "На скакунов нельзя играть обычные усилители шмоток, только специальные усилители скакунов. На каждого скакуна можно сыграть любое количество усилителей скакуна [пруф].",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=1899928#post1899928",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=1899928#post1899928",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "безумия",
+    "title": "Безумия",
+    "text": "Безумия считаются картами в игре [пруф].",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1723027&postcount=13",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1723027&postcount=13",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "бродячий-андед",
+    "title": "Бродячий Андед",
+    "text": "Начиная с 11-10-2011 вы можете сыграть монстра-Андеда с руки в любой бой с участием Андеда без использования карты Бродячая Тварь. Если у вас есть карта, которая сделает монстра Андедом - вы можете сыграть ее вместе с обычным монстром, что бы воспользоваться этим правилом.\nЭто изменение затрагивает все сеты, но не затрагивает Манчкин Квест.\n[пруф] или см. правила к любому сету начиная с версии 1.6",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=84779",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=84779",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "важное-примечание-№5",
+    "title": "Важное примечание №5",
+    "text": "Важное примечание №5: Наемнички, напарники и прочее\nКогда вы играете в несколько колод, то считается, что Наемнички=Напарники=Бугаи=Приспешники. Другими словами, все они являются частью класса «наемник», и вы можете иметь только одну такую карту (не одну каждого вида), если только какие-нибудь карты или способности не позволяют иметь больше. И все они могут быть принесены в жертву для автоматической Смывки. И у них нет никаких особых способностей, кроме тех, что указаны на картах. Естественно, при игре одной колодой используются правила этой колоды.",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "вместо-боя",
+    "title": "Вместо боя",
+    "text": "Если на карте монстра написано, что можно не драться с ним или сделать что-то вместо боя (отдать шмотку, поменяться картами и т.д.), это можно сделать в любой момент, даже если ты уже в бою с ним. [пруф]",
+    "card_refs": [
+      {
+        "slug": "floating-nose",
+        "title": "Floating Nose",
+        "url": "https://munchkindb.ru/card/floating-nose"
+      },
+      {
+        "slug": "stoned-golem",
+        "title": "Stoned Golem",
+        "url": "https://munchkindb.ru/card/stoned-golem"
+      },
+      {
+        "slug": "wen-yen",
+        "title": "Wen Yen",
+        "url": "https://munchkindb.ru/card/wen-yen"
+      },
+      {
+        "slug": "girl-wrestler",
+        "title": "Girl Wrestler",
+        "url": "https://munchkindb.ru/card/girl-wrestler"
+      },
+      {
+        "slug": "king-cobra",
+        "title": "King Cobra",
+        "url": "https://munchkindb.ru/card/king-cobra"
+      },
+      {
+        "slug": "han-so-low",
+        "title": "Han So Low",
+        "url": "https://munchkindb.ru/card/han-so-low"
+      },
+      {
+        "slug": "tiny-but-advanced-creatures",
+        "title": "Tiny But Advanced Creatures",
+        "url": "https://munchkindb.ru/card/tiny-but-advanced-creatures"
+      },
+      {
+        "slug": "astro-muskrat-space-pirate",
+        "title": "Astro-Muskrat Space Pirate",
+        "url": "https://munchkindb.ru/card/astro-muskrat-space-pirate"
+      },
+      {
+        "slug": "thing-man-was-not-meant-to-know",
+        "title": "Thing Man Was Not Meant To Know",
+        "url": "https://munchkindb.ru/card/thing-man-was-not-meant-to-know"
+      },
+      {
+        "slug": "creature-from-the-pink-lagoon",
+        "title": "Creature From The Pink Lagoon",
+        "url": "https://munchkindb.ru/card/creature-from-the-pink-lagoon"
+      },
+      {
+        "slug": "psi-psheriff",
+        "title": "Psi Psheriff",
+        "url": "https://munchkindb.ru/card/psi-psheriff"
+      },
+      {
+        "slug": "bionic-bimbo",
+        "title": "Bionic Bimbo",
+        "url": "https://munchkindb.ru/card/bionic-bimbo"
+      },
+      {
+        "slug": "whatever-woman",
+        "title": "Whatever Woman",
+        "url": "https://munchkindb.ru/card/whatever-woman"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=584794&postcount=4",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=584794&postcount=4",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "дающие-наибольший-бонус",
+    "title": "Дающие наибольший Бонус",
+    "text": "Неиспользуемые в данный момент шмотки не могут считаться дающими наибольший Бонус, т.к. они не дают Бонус в данный момент [пруф][пруф] \nЕсли у тебя нет ни одной шмотки с Бонусом, ты должен потерять любую свою шмотку (используемую без бонуса или неиспользуемую) [пруф][пруф]",
+    "card_refs": [
+      {
+        "slug": "truly-obnoxious-curse",
+        "title": "Truly Obnoxious Curse!",
+        "url": "https://munchkindb.ru/card/truly-obnoxious-curse"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=1029693#post1029693",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1227286&postcount=2",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1099650&postcount=2",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1985911&postcount=4",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=1029693#post1029693",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1227286&postcount=2",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1099650&postcount=2",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1985911&postcount=4",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "делёж-сокровищ-срабатывающих-немедленно",
+    "title": "делёж сокровищ, срабатывающих немедленно",
+    "text": "При победе в бою с помощником, если при вскрытии сокровищ обнаружилась карта, которую нужно сыграть немедленно (например Ура, клад!) её нужно сыграть до того, как стороны начнут делить сокровища. Ситуация равнозначна тому, когда после договора о помощи количество сокровищ за победу увеличилось. Хозяин боя должен разделить сокровища с Помощником в соответствии с изначальным договором [пруф].\nВсе сокровища берутся одновременно, а потом применяются эффекты, которые должны сработать немедленно [пруф].",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1128758&postcount=2",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=2154416#post2154416",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1128758&postcount=2",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=2154416#post2154416",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": [
+      {
+        "comment_id": "24",
+        "title": "Пост был 24 февраля 2011 года",
+        "author": "kotya",
+        "created_at": "2013-06-24T23:32:23Z",
+        "text": "Пост был 24 февраля 2011 года. А в FAQ от 15 ноября 2012 года сказано:\nВ: А если мне нужно выбирать между несколькими картами и одна из них - \"Ура, Клад!\"?\nО: Если нужно вытянуть карты и выбрать одну их них и одной из этих карт будет \"Ура, Клад!\", то \"Ура, Клад!\" не играется до тех пор, пока ты не выбрешь именно его. Выбрал – немедленно сыграй.",
+        "url": "https://munchkindb.ru/comment/24#comment-24",
+        "external_refs": []
+      },
+      {
+        "comment_id": "25",
+        "title": "Ответили официально, что этот",
+        "author": "kotya",
+        "created_at": "2013-06-25T16:33:45Z",
+        "text": "Ответили официально, что этот пункт относится лишь к свойству Барда: http://forums.sjgames.com/showpost.php?p=1602658",
+        "url": "https://munchkindb.ru/comment/25#comment-25",
+        "external_refs": [
+          {
+            "url": "http://forums.sjgames.com/showpost.php?p=1602658",
+            "title": "http://forums.sjgames.com/showpost.php?p=1602658"
+          }
+        ]
+      },
+      {
+        "comment_id": "26",
+        "title": "ребята, я нифига не понял как",
+        "author": "Moldon",
+        "created_at": "2013-06-26T20:48:47Z",
+        "text": "ребята, я нифига не понял как и в какой ситуации в итоге правильно.",
+        "url": "https://munchkindb.ru/comment/26#comment-26",
+        "external_refs": []
+      },
+      {
+        "comment_id": "27",
+        "title": "Я понял так:",
+        "author": "kotya",
+        "created_at": "2013-06-29T01:23:31Z",
+        "text": "Я понял так:\nЕсли ты бился с помощником, тянешь сокровища за победу, и одно из них - карта типа \"Ура, клад!\", ты должен немедленно разыграть её, взяв нужное количество сокровищ и сбросив. а уже после этого перейти к делёжке. то есть если помощник присоединился в бою за одно сокровище, которое он будет брать первым, он не сможет взять \"Ура, клад!\" (и выгодно получить три сокровища вместо обещанного одного).\nЕсли же используешь Бардову удачу, когда берёшь сокровища за победу, и одно из вытянутых сокровищ - карта типа \"Ура, клад!\", ты её не разыгрываешь, пока не определишься, какое сокровище ты сбрасываешь в силу работы свойства. Когда определился и сбросил - тут же разыграй \"Ура, клад!\" (если, конечно, ты не сбросил именно её).",
+        "url": "https://munchkindb.ru/comment/27#comment-27",
+        "external_refs": []
+      },
+      {
+        "comment_id": "32",
+        "title": "небольшое пояснение: если",
+        "author": "mawile",
+        "created_at": "2013-07-28T12:28:34Z",
+        "text": "небольшое пояснение: если игроку предлагают взять N карт и выбрать часть для себя, а часть сбросить, Ура клад! игрок не получит, пока его не выберет. В случае дележа сокровищ при победе над монстром, все сокровища изначально получает хозяин боя, после чего должен показать их всем и поделиться с помощником. В этм случае он уже получил Ура клад! и карту необходимо сыграть до того, как напчнётся делёж.",
+        "url": "https://munchkindb.ru/comment/32#comment-32",
+        "external_refs": []
+      }
+    ]
+  },
+  {
+    "slug": "длительные-и-отложенные-проклятия",
+    "title": "Длительные и отложенные Проклятия",
+    "text": "Карты Проклятий, оставленных как напоминание до отложенного эффекта (например Зеркало Злосчастья), не считаются картами в игре. [пруф]\nКарты Проклятий, имеющих длительный эффект (например Курица на Башне), считаются картами в игре. [пруф]\nЕсть разница между картами, которые сами создают эффект, и картами, которые просто напоминают об эффекте. [пруф]",
+    "card_refs": [
+      {
+        "slug": "malign-mirror",
+        "title": "Зеркало Злосчастья",
+        "url": "http://munchkindb.ru/card/malign-mirror"
+      },
+      {
+        "slug": "chicken-on-your-head",
+        "title": "Курица на Башне",
+        "url": "http://munchkindb.ru/card/chicken-on-your-head"
+      },
+      {
+        "slug": "annihilation",
+        "title": "Annihilation",
+        "url": "https://munchkindb.ru/card/annihilation"
+      }
+    ],
+    "internal_refs": [
+      {
+        "url": "http://munchkindb.ru/card/malign-mirror",
+        "title": "Зеркало Злосчастья"
+      },
+      {
+        "url": "http://munchkindb.ru/card/chicken-on-your-head",
+        "title": "Курица на Башне"
+      }
+    ],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1322302&postcount=7",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1559081&postcount=17",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1091313&postcount=6",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1322302&postcount=7",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1559081&postcount=17",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1091313&postcount=6",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "зачаровывание-парочки",
+    "title": "Зачаровывание Парочки",
+    "text": "Если вы зачаровали одного из монстров Гадкой Парочки (и аналогичных карт) - будьте внимательны: количество получаемых сокровищ зависит от итогового монстра. Т.е. если оставший просле Зачарования монстр подвергался действию карт-усилителей монстров, то количество сокровищ у зачарованного монстра также изменяется! [пруф] [пример]",
+    "card_refs": [
+      {
+        "slug": "wizard",
+        "title": "Wizard",
+        "url": "https://munchkindb.ru/card/wizard"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1142058",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1410349",
+        "title": "[пример]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1142058",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1410349",
+        "title": "[пример]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "изменения-правил-кораблейскакуновтачек-от-16092014",
+    "title": "Изменения правил Кораблей/Скакунов/Тачек от 16.09.2014",
+    "text": "Изменение ОТМЕНЕНО, Корабль (Скакун, Тачка) может находиться в игре ТОЛЬКО в активном состоянии. Снова. [пруф]\nВы можете иметь в игре только один Корабль (Скакуна, Тачку) в любом состоянии, однако, в неактивном состоянии (\"боком\", \"в рюкзаке\") свойство \"несёт себя сам\" не работает и Корабль (Скакун, Тачка) идёт в счёт ваших Больших Шмоток. [пруф]\nЕсли нет причины, по которой Корабль (Скакун, Тачка) не может использоваться в данный момент, то он не может быть в неактивном состоянии. [пруф]",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2000370&postcount=7",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1814413&postcount=7",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1996787&postcount=2",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2000370&postcount=7",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1814413&postcount=7",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1996787&postcount=2",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "использование-нескольких-соединённых-лазеров",
+    "title": "Использование нескольких соединённых лазеров",
+    "text": "Иметь в составе соединённого оружия несколько -азеров-Агрегатов можно. [пруф]\nВ случае, если несколько -азеров соединены в одно оружие, \"Чит\" нельзя использовать на это оружие целиком, а можно только на один из -азеров (например, если два из -азеров являются Агрегатами, а ты можешь использовать только один). [пруф]\nНельзя подвергнуть всё оружие целиком Аннигиляции или Антиматерии... только одну карту! [пруф - правила игры]\nНельзя украсть всё оружие сразу, а только по одному -азеру. [пруф] Потому что несколько лазеров считаются одним оружием, но не одной шмоткой. [пруф]",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1753928&postcount=17",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=188968",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=741883",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1460074",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1753928&postcount=17",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=188968",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=741883",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1460074",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "как-играть-модификаторы-шмоткискакунакораблянаёмника",
+    "title": "Как играть Модификаторы Шмотки/Скакуна/Корабля/Наёмника",
+    "text": "Модификатор Шмотки/Скакуна/Корабля/Наёмника, который является шмоткой, нельзя выложить на стол неиспользуемым (без привязки к Шмотке/Скакуну/Кораблю/Наёмнику). [пруф] [пруф] [пруф]\nНельзя играть Модификатор Шмотки/Скакуна/Корабля/Наёмника в бою. [пруф]\nНа Скакунов нельзя играть Модификаторы Шмоток. [пруф]\nСыгранные Модификаторы, которые сами являются Шмотками, нельзя отсоединять (например, чтобы сбросить за Проклятие, Непотребство и т.д. или продать отдельно). [пруф]\nМодификатор Шмотки может быть сыгран на неиспользуемую одноразовую Шмотку (или вместе с одноразовой Шмоткой с руки), если это позволяют условия из текстов Шмотки и модификатора. [пруф][пруф]",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1462704",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1479162",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1499911",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1563738",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1899928",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=101414",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2067255&postcount=3",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2067263&postcount=5",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1462704",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1479162",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1499911",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1563738",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1899928",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=101414",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2067255&postcount=3",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2067263&postcount=5",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "как-играть-порталы",
+    "title": "Как играть Порталы",
+    "text": "В свой ход можно открыть несколько Порталов и сменить/добавить несколько Подземелий.\n\nЕсть ограничение только на Порталы с руки - можно сыграть один Портал с руки за ход согласно правилам.\n\nНет ограничения на открытие Порталов за вышибленной дверью. Также с руки можно несколько раз сбрасывать по 4 карты (за одно новое Подземелье) пока хватает карт в руке. [пруф]",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=156730",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=156730",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "как-играть-скакуна",
+    "title": "Как играть Скакуна",
+    "text": "Можно ли сыграть Скакуна с руки во время Поиска Неприятностей?\nНет.\nСо Скакуном можно сражаться только во время Открытия Двери. Можно ли сбрасывать Скакуна для автосмывки (по аналогии с Наемником)?\nНет, если на карте не сказано обратного.\nУ меня огнедышащий Скакун. Значит ли это, что мои атаки становятся огненными/пламенными?\nДа.",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "как-играть-усилители-шмоткискакунакораблянаёмника",
+    "title": "Как играть Усилители Шмотки/Скакуна/Корабля/Наёмника",
+    "text": "Усилитель Шмотки/Скакуна/Корабля/Наёмника, который является шмоткой, нельзя выложить на стол неиспользуемым (без привязки к Шмотке/Скакуну/Кораблю/Наёмнику) [пруф] [пруф] [пруф] [пруф].\nНельзя играть Усилитель Шмотки/Скакуна/Корабля/Наёмника в бою. [пруф]\nНа Скакунов нельзя играть Усилители Шмоток. [пруф]\nСыгранные Усилители, которые сами являются Шмотками, нельзя отсоединять (например, чтобы сбросить за Проклятие, Непотребство и т.д. или продать отдельно). [пруф]\nУсилитель Шмотки может быть сыгран на неиспользуемую одноразовую Шмотку (или вместе с одноразовой Шмоткой с руки), если это позволяют условия из текстов Шмотки и усилителя. [пруф][пруф]",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1462704",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1479162",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1499911",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=2083732",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1563738",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1899928",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=101414",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2067255&postcount=3",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2067263&postcount=5",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1462704",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1479162",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1499911",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=2083732",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1563738",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1899928",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=101414",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2067255&postcount=3",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2067263&postcount=5",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "как-играть-усилитель-скакуна",
+    "title": "Как играть усилитель скакуна",
+    "text": "Нужно делать что-то особенное, что бы сыграть Усилитель Скакуна?\nНет. Это такой же усилитель, как и Усилитель Шмотки, только он играется исключительно на Скакуна",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "карты-и-способности-повышающие-уровень",
+    "title": "Карты и способности, повышающие уровень",
+    "text": "Нельзя играть карту или использовать способность, позволяющую получить уровень, если для получения этого уровня нужно убить Монстра. (просто для того, чтобы разыграть другую часть эффекта карты/способности) [пруф]",
+    "card_refs": [
+      {
+        "slug": "kill-a-hireling",
+        "title": "Kill a Hireling",
+        "url": "https://munchkindb.ru/card/kill-a-hireling"
+      },
+      {
+        "slug": "kill-the-hireling-m1",
+        "title": "Kill the Hireling (M1)",
+        "url": "https://munchkindb.ru/card/kill-the-hireling-m1"
+      },
+      {
+        "slug": "kill-the-hireling-fu",
+        "title": "Kill the Hireling (Fu)",
+        "url": "https://munchkindb.ru/card/kill-the-hireling-fu"
+      },
+      {
+        "slug": "kill-a-steed",
+        "title": "Kill a Steed",
+        "url": "https://munchkindb.ru/card/kill-a-steed"
+      },
+      {
+        "slug": "steal-a-level",
+        "title": "Steal a Level",
+        "url": "https://munchkindb.ru/card/steal-a-level"
+      },
+      {
+        "slug": "senseless-act-of-kindness",
+        "title": "Senseless Act of Kindness",
+        "url": "https://munchkindb.ru/card/senseless-act-of-kindness"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1251184",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1251184",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "карты-уравниваюшие-боевые-силы-сторон",
+    "title": "карты, уравниваюшие боевые силы сторон",
+    "text": "Если карта делает Боевые Силы сторон равными или отличающимися на 1, то это значит, что эта карта даёт проигрывающей стороне необходимое количество Бонусов. [пруф]",
+    "card_refs": [
+      {
+        "slug": "mexican-standoff",
+        "title": "Mexican Standoff",
+        "url": "https://munchkindb.ru/card/mexican-standoff"
+      },
+      {
+        "slug": "plot-device-0",
+        "title": "Plot Device",
+        "url": "https://munchkindb.ru/card/plot-device-0"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1738637&postcount=3",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1738637&postcount=3",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "карты-шмотки-используемые-совместно",
+    "title": "Карты (Шмотки), используемые совместно",
+    "text": "Если одну из используемых совместно карт (в том числе Шмоток; например, Броник, на котором написано \"Можно носить с другим Броником\", или Модификатор шмотки) сбрасывают/крадут/дарят и т.п., то надо следовать тексту других карт в связке, чтобы понять, сбрасываются они или уходят к новому владельцу [пруф] [пруф].\nЕсли шмотка имеет особенность использоваться совместно с другими такого же типа (например, если Броник можно \"надевать\" даже если есть другой \"надетый\" Броник), то при воровстве забирается только одна конкретная карта, а не все карты этого типа вместе. Ранее на форуме был официальный ответ, что такие шмотки всегда уходят вместе, но сейчас официальная позиция изменилась. Такие шмотки уходят вместе только если должна уйти шмотка конкретно этого типа (например Проклятие! Потеряй Броник) [пруф].",
+    "card_refs": [
+      {
+        "slug": "schadenfreudian-slip",
+        "title": "Schadenfreudian Slip",
+        "url": "https://munchkindb.ru/card/schadenfreudian-slip"
+      },
+      {
+        "slug": "kevlar-bikini",
+        "title": "Kevlar Bikini",
+        "url": "https://munchkindb.ru/card/kevlar-bikini"
+      },
+      {
+        "slug": "hong-kong-thong",
+        "title": "Hong Kong Thong",
+        "url": "https://munchkindb.ru/card/hong-kong-thong"
+      },
+      {
+        "slug": "hong-kong-sarong",
+        "title": "Hong Kong Sarong",
+        "url": "https://munchkindb.ru/card/hong-kong-sarong"
+      },
+      {
+        "slug": "no-no-kimono",
+        "title": "No-No Kimono",
+        "url": "https://munchkindb.ru/card/no-no-kimono"
+      },
+      {
+        "slug": "gnomex-suit",
+        "title": "Gnomex Suit",
+        "url": "https://munchkindb.ru/card/gnomex-suit"
+      },
+      {
+        "slug": "raincoat",
+        "title": "Raincoat",
+        "url": "https://munchkindb.ru/card/raincoat"
+      },
+      {
+        "slug": "miskatonic-university-t-shirt",
+        "title": "Miskatonic University T-Shirt",
+        "url": "https://munchkindb.ru/card/miskatonic-university-t-shirt"
+      },
+      {
+        "slug": "tweed-jacket",
+        "title": "Tweed Jacket",
+        "url": "https://munchkindb.ru/card/tweed-jacket"
+      },
+      {
+        "slug": "cultist-t-shirt",
+        "title": "Cultist T-Shirt",
+        "url": "https://munchkindb.ru/card/cultist-t-shirt"
+      },
+      {
+        "slug": "amazingly-cool-sunglasses",
+        "title": "Amazingly Cool Sunglasses",
+        "url": "https://munchkindb.ru/card/amazingly-cool-sunglasses"
+      },
+      {
+        "slug": "kamikaze-headband",
+        "title": "Kamikaze Headband",
+        "url": "https://munchkindb.ru/card/kamikaze-headband"
+      },
+      {
+        "slug": "neon-kimono",
+        "title": "Neon Kimono",
+        "url": "https://munchkindb.ru/card/neon-kimono"
+      },
+      {
+        "slug": "ninja-mask",
+        "title": "Ninja Mask",
+        "url": "https://munchkindb.ru/card/ninja-mask"
+      },
+      {
+        "slug": "silk-armor",
+        "title": "Silk Armor",
+        "url": "https://munchkindb.ru/card/silk-armor"
+      },
+      {
+        "slug": "cat-ears",
+        "title": "Cat Ears",
+        "url": "https://munchkindb.ru/card/cat-ears"
+      },
+      {
+        "slug": "knight-light",
+        "title": "Knight Light",
+        "url": "https://munchkindb.ru/card/knight-light"
+      },
+      {
+        "slug": "awful-socks",
+        "title": "Awful Socks",
+        "url": "https://munchkindb.ru/card/awful-socks"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1097106",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1092684",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=137714",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1097106",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1092684",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=137714",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": [
+      {
+        "comment_id": "33",
+        "title": "а разве есть не-шмотки,",
+        "author": "Moldon",
+        "created_at": "2013-08-02T08:02:17Z",
+        "text": "а разве есть не-шмотки, используемые совместно?",
+        "url": "https://munchkindb.ru/comment/33#comment-33",
+        "external_refs": []
+      },
+      {
+        "comment_id": "34",
+        "title": "Я имел в виду Модификаторы",
+        "author": "kotya",
+        "created_at": "2013-08-02T13:00:28Z",
+        "text": "Я имел в виду Модификаторы Шмоток. По второй ссылке про них говорится.",
+        "url": "https://munchkindb.ru/comment/34#comment-34",
+        "external_refs": []
+      }
+    ]
+  },
+  {
+    "slug": "когда-играть",
+    "title": "Когда играть",
+    "text": "Играть в любой момент своего хода (даже в бою) или как только вы получили карту.  [пруф]\nСбросить в любой момент.",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=124650",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=124650",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "когда-играть-усилители-монстров",
+    "title": "Когда играть усилители монстров",
+    "text": "Усилители может играть любой игрок во время любого боя.\nВсе усилители, сыгранные на одного монстра, суммируются. Если в бою несколько монстров, то игрок должен выбрать, на кого именно он играет усилитель. Исключение: Все, что усиливает монстра, усиливает и его Гадкую Парочку.",
+    "card_refs": [
+      {
+        "slug": "mate",
+        "title": "Гадкую Парочку",
+        "url": "http://munchkindb.ru/card/mate"
+      }
+    ],
+    "internal_refs": [
+      {
+        "url": "http://munchkindb.ru/card/mate",
+        "title": "Гадкую Парочку"
+      }
+    ],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "когда-играть-шмотки",
+    "title": "Когда играть Шмотки",
+    "text": "Любую Шмотку можно выложить на стол перед собой, как только вы ее получили или в любой момент своего хода (но не в бою)",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "модификатор-скакуна",
+    "title": "Модификатор Скакуна",
+    "text": "Модификатор Скакуна привязывается к Скакуну, на которого сыгран. Так как это Шмотка - она МОЖЕТ быть проданна отдельно, но если вы продаете Скакуна, вам нужно также продать или сбросить привязанный к нему Модификатор. [пруф][пруф]\nЕсли карта или правило требуют забрать Скакуна на руку, все модификаторы, сыгранные на него, сбрасываются. Если Скакун перехожит к новому владельцу, но остаётся в игре, модификаторы сохраняются. [пруф]\nНа Скакуна, против которого бьются как против монстра, можно играть модификаторы монстров и нельзя играть модификаторы скакуна. [пруф]",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1288049",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=157555",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1891208",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1891270",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1288049",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=157555",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1891208",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1891270",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "монстр-со-свойством-не-атакует",
+    "title": "Монстр со свойством \"не атакует\"",
+    "text": "С монстром, который не атакует персонажей какого-то типа, персонаж этого типа биться не может; монстр тут же сбрасывается. За него не полагается никакой награды, если только текст на нём не говорит об обратном; если же награда* полагается, она берётся только после победы над оставшимися в бою монстрами. [пруф]\n* Использование особого свойства Адвоката, например, наградой не является. [пруф]",
+    "card_refs": [
+      {
+        "slug": "lawyers",
+        "title": "Lawyers",
+        "url": "https://munchkindb.ru/card/lawyers"
+      },
+      {
+        "slug": "amazon",
+        "title": "Amazon",
+        "url": "https://munchkindb.ru/card/amazon"
+      },
+      {
+        "slug": "psycho-squirrel",
+        "title": "Psycho Squirrel",
+        "url": "https://munchkindb.ru/card/psycho-squirrel"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1965683",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=767913",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1965683",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=767913",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "награда-за-автоматическое-убийство",
+    "title": "Награда за автоматическое убийство",
+    "text": "Если какие-то монстры в бою убиваются автоматически и немедленно, и после этого не осталось ни одного монстра, все равно можно больше нельзя добавлять монстров Бродячей Тварью и играть в этот бой карты, поскольку в этом случае согласно изменениям в FAQ от 2018 года бой немедленно заканчивается. [пруф] Чтобы получить Сокровища и Уровни за автоматически убитых монстров, необходимо выиграть весь бой, то есть победить остальных монстров. [пруф], [пруф]\nЭффекты карт \"Зелье дружбы\", \"Ушёл на базу\" и другие подобные им не лишают игрока уровней за автоматическое убийство. [пруф]",
+    "card_refs": [
+      {
+        "slug": "the-churninator",
+        "title": "The Churninator",
+        "url": "https://munchkindb.ru/card/the-churninator"
+      },
+      {
+        "slug": "gas-mask",
+        "title": "Gas Mask",
+        "url": "https://munchkindb.ru/card/gas-mask"
+      },
+      {
+        "slug": "mailbox",
+        "title": "Mailbox",
+        "url": "https://munchkindb.ru/card/mailbox"
+      },
+      {
+        "slug": "leech-bomb",
+        "title": "Leech Bomb",
+        "url": "https://munchkindb.ru/card/leech-bomb"
+      },
+      {
+        "slug": "janibot",
+        "title": "JaniBot",
+        "url": "https://munchkindb.ru/card/janibot"
+      },
+      {
+        "slug": "idol-powder",
+        "title": "Idol Powder",
+        "url": "https://munchkindb.ru/card/idol-powder"
+      },
+      {
+        "slug": "glass-jaw",
+        "title": "Glass Jaw",
+        "url": "https://munchkindb.ru/card/glass-jaw"
+      },
+      {
+        "slug": "airport-security",
+        "title": "Airport Security",
+        "url": "https://munchkindb.ru/card/airport-security"
+      },
+      {
+        "slug": "mascot",
+        "title": "Mascot",
+        "url": "https://munchkindb.ru/card/mascot"
+      },
+      {
+        "slug": "mailman",
+        "title": "Mailman",
+        "url": "https://munchkindb.ru/card/mailman"
+      },
+      {
+        "slug": "potion-of-halitosis",
+        "title": "Potion of Halitosis",
+        "url": "https://munchkindb.ru/card/potion-of-halitosis"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "https://munchkin.game/gameplay/faq/",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=672074#post672074",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=968231",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=146089",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "https://munchkin.game/gameplay/faq/",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=672074#post672074",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=968231",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=146089",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "наёмник-с-классом-или-расой",
+    "title": "Наёмник с Классом или Расой",
+    "text": "Если Наёмник, имеющий Класс, Расу или Пол, может нести шмотку, это может быть любая шмотка, подходящая для его Класса, Расы или Пола, не может быть шмотка, запрещенная для его Класса, Расы или Пола, и не может быть шмотка, подходящая только для другого Класса, Расы или Пола. [пруф]\nЕсли Наёмник может нести шмотку, то на него не распространяются ограничения по количеству Больших шмоток, Рук и т.п. [пруф]\nНаемник без расы не считается человеком. [пруф]",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1218971",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1167769",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=914092",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1218971",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1167769",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=914092",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "не-преследует",
+    "title": "не преследует",
+    "text": "В: Я встретил монстра, который \"Не преследует никого, чей Уровень Х или ниже\". Я ниже указанного Уровня. Могу ли я биться с этим монстром?\nО: Разумеется, ты можешь (фактически обязан примечание переводчика) драться с монстром. Если ты не сможешь выиграть и собираешься Смываться, то твоя Смывка будет автоматической (без броска кубика).\nВ: У меня 2й уровень и на меня нападает монстр 9го уровня. В бой вступает игрок 5го уровня. Третий игрок подкидывает нам монстра, который не преследует игроков 3го уровня и ниже. Мы проигрываем и вынуждены Смываться. Подкинутый монстр преследует обоих?\nО: Во время боя монстры сражаются вместе. Но когда дело доходит до преследования, они действуют самостоятельно и манчкины пытаются сбежать от каждого из них по отдельности. То есть подкинутый монстр не преследует тебя, но преследует твоего помощника.",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "негатив-даже-если-смылся",
+    "title": "Негатив даже если смылся",
+    "text": "Применение любой автоматической смывки, в т.ч. сброс Наёмника, не спасает от негативного эффекта \"даже если успешно смылся\" [пруф]. Не спасает и розыгрыш Волшебной лампы после броска на смывку [пруф].\nНегатив \"даже если успешно смылся\" применяется после броска на смывку, независимо от результата, затем, если результат был неудачным, применяется Непотребство, если оно еще не выполнилось при выполнении этого негативного эффекта [пруф].",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=1335321",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2078373",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=146877",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=1335321",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=2078373",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=146877",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "огненная-атака",
+    "title": "Огненная атака",
+    "text": "Огненную атаку даёт любая используемая шмотка, у которой в тексте явно сказано, что она наносит огненный урон, либо на карте явно изображен огонь, либо в названии есть слова \"огонь\", \"пламя\", \"пламенный\" и т.п. [пруф] Также огненными считаются Лазеры из Звездного Манчкина (см.правила).\n \nFAQ:\nВ: У меня огнедышащий Скакун. Значит ли это, что мои атаки становятся огненными/пламенными?\nО: Да.",
+    "card_refs": [
+      {
+        "slug": "fireman",
+        "title": "Fireman",
+        "url": "https://munchkindb.ru/card/fireman"
+      },
+      {
+        "slug": "game-show-host",
+        "title": "Game Show Host",
+        "url": "https://munchkindb.ru/card/game-show-host"
+      },
+      {
+        "slug": "mascot",
+        "title": "Mascot",
+        "url": "https://munchkindb.ru/card/mascot"
+      },
+      {
+        "slug": "wino",
+        "title": "Wino",
+        "url": "https://munchkindb.ru/card/wino"
+      },
+      {
+        "slug": "large-angry-chicken",
+        "title": "Large Angry Chicken",
+        "url": "https://munchkindb.ru/card/large-angry-chicken"
+      },
+      {
+        "slug": "frost-giant",
+        "title": "Frost Giant",
+        "url": "https://munchkindb.ru/card/frost-giant"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1068126",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1068126",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "ограничение-на-развитие-стиля",
+    "title": "Ограничение на Развитие Стиля",
+    "text": "Есть ли ограничение на количество Развитий Стиля?\nНет, если это не указано на какой-либо карте. Ваш Стиль может быть улучшен столько раз, сколько вы захотите.",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "одежда",
+    "title": "Одежда",
+    "text": "Одеждой считается все, что нужно НАДЕВАТЬ, а не просто БРАТЬ [пруф]. Включая броники, головняки и обувку [пруф].",
+    "card_refs": [
+      {
+        "slug": "itching-powder",
+        "title": "Itching Powder",
+        "url": "https://munchkindb.ru/card/itching-powder"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1041724&postcount=13",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=888924&postcount=2",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1041724&postcount=13",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=888924&postcount=2",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "перед-боем",
+    "title": "Перед боем",
+    "text": "На помощника, вступившего в бой с монстром, имеющим эффект \"перед боем\", этот эффект не влияет [пруф]. \nЗелье Стрелочника не перезапускает эффект \"перед боем\" [пруф].",
+    "card_refs": [
+      {
+        "slug": "weapon-gaki",
+        "title": "Weapon Gaki",
+        "url": "https://munchkindb.ru/card/weapon-gaki"
+      },
+      {
+        "slug": "tongue-demon",
+        "title": "Tongue Demon",
+        "url": "https://munchkindb.ru/card/tongue-demon"
+      },
+      {
+        "slug": "tchoo-tchoo-people",
+        "title": "Tchoo-Tchoo People",
+        "url": "https://munchkindb.ru/card/tchoo-tchoo-people"
+      },
+      {
+        "slug": "transferral-potion",
+        "title": "Transferral Potion",
+        "url": "https://munchkindb.ru/card/transferral-potion"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1794283",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=2021209",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1794283",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=2021209",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "печати",
+    "title": "Печати",
+    "text": "Каждый монстр получает +1 за каждую открытую Сивучать.  [пруф]\nДлительный эффект Сивучати также дает Бонус каждому монстру. [пруф]\nПри подсчёте количества Сивучатей, необходимого для завершения партии, учитываются только те, что находятся в игре. Игра заканчивается не после того, как откроется седьмая карта Сивучати вообще, а тогда, когда их будет семь открытых. Другими словами, закрытые Сивучати не считаются. [пруф]",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1480068&postcount=2",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1837920&postcount=4",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1858311",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1480068&postcount=2",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1837920&postcount=4",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1858311",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "подонки",
+    "title": "Подонки",
+    "text": "Все Подонки получают +4 только в случае, если их добавляют в бой. Если же, напротив, в бой с Подонками добавляется монстр, +4 они не получают. [пруф]\nПодонки возвращатся обратно в руку только в случае, если были сыграны в помощь другому монстру; если был проигран бой с Подонками, начавшийся после Поиска неприятностей, они в руку не возвращаются. [пруф]",
+    "card_refs": [
+      {
+        "slug": "wimpy-thugs",
+        "title": "Wimpy Thugs",
+        "url": "https://munchkindb.ru/card/wimpy-thugs"
+      },
+      {
+        "slug": "four-more-wimpy-thugs",
+        "title": "Four More Wimpy Thugs",
+        "url": "https://munchkindb.ru/card/four-more-wimpy-thugs"
+      },
+      {
+        "slug": "more-wimpy-thugs",
+        "title": "More Wimpy Thugs",
+        "url": "https://munchkindb.ru/card/more-wimpy-thugs"
+      },
+      {
+        "slug": "still-more-wimpy-thugs",
+        "title": "Still More Wimpy Thugs",
+        "url": "https://munchkindb.ru/card/still-more-wimpy-thugs"
+      },
+      {
+        "slug": "three-more-wimpy-thugs",
+        "title": "Three More Wimpy Thugs",
+        "url": "https://munchkindb.ru/card/three-more-wimpy-thugs"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1773900",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1773900",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1773900",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "помощь-гаки",
+    "title": "Помощь Гаки",
+    "text": "На всех картах Гаки сказано «любой может сыграть любую карту, чтобы помочь Гаки. Любая карта, которая обычно не помогают монстрам, дает Гаки +2». Что за карты имеются в виду?\nИмеются в виду любые карты. Шмотки, Стили, Классы, карты монстров. Если карта не дает бонуса монстрам, ее можно сбросить, чтобы Гаки получил +2 за каждую сброшенную карту.",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [],
+    "inline_external_refs": [],
+    "comments": []
+  },
+  {
+    "slug": "порядок-бросков-кубика-по-эффекту-карты",
+    "title": "Порядок бросков кубика по эффекту карты",
+    "text": "Если игроки должны бросить кубик, чтобы определить, на кого/как подействует эффект карты, все их броски считаются одновременными, даже если технически они были совершены последовательно. Читерский и Перечитерский кубики могут быть сыграны после бросков всех игроков. [пруф]",
+    "card_refs": [
+      {
+        "slug": "bard",
+        "title": "Bard",
+        "url": "https://munchkindb.ru/card/bard"
+      },
+      {
+        "slug": "magnificent-hat",
+        "title": "Magnificent Hat",
+        "url": "https://munchkindb.ru/card/magnificent-hat"
+      },
+      {
+        "slug": "rations-spoiled",
+        "title": "Rations Spoiled",
+        "url": "https://munchkindb.ru/card/rations-spoiled"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1891744",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1891744",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "преимущества-без-недостатков-и-особенности-монстров",
+    "title": "\"Преимущества без недостатков\" и особенности монстров",
+    "text": "Возможность совершать сделки с монстрами и использовать их особенности не является преимуществом или недостатком. [пруф]\nПоэтому, например, Адвокат так же не станет атаковать Вора-Суперманчкина, как и обычного Вора, а Халфлинг-Полукровка автоматически растопчет Могучего Микроба.",
+    "card_refs": [
+      {
+        "slug": "half-breed",
+        "title": "Half-Breed",
+        "url": "https://munchkindb.ru/card/half-breed"
+      },
+      {
+        "slug": "super-munchkin",
+        "title": "Super Munchkin",
+        "url": "https://munchkindb.ru/card/super-munchkin"
+      },
+      {
+        "slug": "double-mojo",
+        "title": "Double Mojo",
+        "url": "https://munchkindb.ru/card/double-mojo"
+      },
+      {
+        "slug": "bilingual",
+        "title": "Bilingual",
+        "url": "https://munchkindb.ru/card/bilingual"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1626042",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1626042",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "проклятия-в-начале-игры",
+    "title": "Проклятия в начале игры",
+    "text": "Проклятия нельзя играть до того момента, как первый игрок вышибет первую дверь. [пруф] Это важно, например, в том случае, если у кого-то среди карт, взятых на руку перед началом игры, оказалась Шапочка из фольги, и нужно дать ему возможность её выложить, прежде чем играть проклятия. Воровать шмотки тоже нельзя [пруф].",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1510594",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=2061462",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1510594",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=2061462",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "работа-способностей-расклассовстилей-и-тп",
+    "title": "Работа способностей Рас/Классов/Стилей и т.п.",
+    "text": "Если нужно потратить карту для использования способности Расы/Класса/Стиля и т.п., эффект от неё сохраняется, даже если сбросить карту Расы/Класса/Стиля и т.п. [пруф]",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1164055",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1164055",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": [
+      {
+        "comment_id": "11",
+        "title": "Можно удалить, поскольку об",
+        "author": "kotya",
+        "created_at": "2012-11-23T23:54:43Z",
+        "text": "Можно удалить, поскольку об этом написано в рулинге \"FAQ Класс, Раса, Подданство, Акцент\" (но тогда нужно добавить в тэги того рулинга ещё и Стиль, Развитие Стиля, Моджо, Сила, Навык).",
+        "url": "https://munchkindb.ru/comment/11#comment-11",
+        "external_refs": []
+      },
+      {
+        "comment_id": "12",
+        "title": "система рулингов вооще",
+        "author": "Moldon",
+        "created_at": "2012-11-24T10:58:00Z",
+        "text": "система рулингов вооще требует переработки. некоторые рулинги надо переделать, примерно так как сейчас переделали рулинг \"FAQ монстры\". Чтобы очень общие рулинги не торчали целиков на каждой странице каждой карты, а была только ссылка.",
+        "url": "https://munchkindb.ru/comment/12#comment-12",
+        "external_refs": []
+      }
+    ]
+  },
+  {
+    "slug": "сброс-нескольких-карт",
+    "title": "Сброс нескольких карт",
+    "text": "Сбрасываемые карты - публичная информация. При сбросе нескольких карт игрок должен показать все карты, прежде чем положить их в топку сброса, а после этого видна уже только верхняя карта [пруф][пруф]",
+    "card_refs": [
+      {
+        "slug": "wizard",
+        "title": "Wizard",
+        "url": "https://munchkindb.ru/card/wizard"
+      },
+      {
+        "slug": "cleric",
+        "title": "Cleric",
+        "url": "https://munchkindb.ru/card/cleric"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1072514",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1011944",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1072514",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1011944",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "складывание-эффектов-удвоения-бонуса",
+    "title": "складывание эффектов удвоения бонуса",
+    "text": "Если несколько эффектов удваивуют (утраивают и т.п.) бонус одной карты, то эффекты действуют последовательно, и каждый раз учитывается удвоение предыдущего эффека. Так разовая шмотка на +5, сыгранная Русским Ящерко Алхимиком, даст бонус (((+5x2)x2)x2) = +40 [пруф]. Однако, это не касается двух Дупельгангеров, они НЕ учитывают эффект друг друга, каждый из них дает бонус, равный боевой силе персонажа без Дупельгангеров [пруф в FAQ]",
+    "card_refs": [
+      {
+        "slug": "lizard-guy",
+        "title": "Lizard Guy",
+        "url": "https://munchkindb.ru/card/lizard-guy"
+      },
+      {
+        "slug": "russian",
+        "title": "Russian",
+        "url": "https://munchkindb.ru/card/russian"
+      },
+      {
+        "slug": "alchemist",
+        "title": "Alchemist",
+        "url": "https://munchkindb.ru/card/alchemist"
+      },
+      {
+        "slug": "doppleganger",
+        "title": "Doppleganger",
+        "url": "https://munchkindb.ru/card/doppleganger"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=1707189",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://www.worldofmunchkin.com/faq/#munchkin",
+        "title": "FAQ"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?p=1707189",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://www.worldofmunchkin.com/faq/#munchkin",
+        "title": "FAQ",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "смерть-после-боя-с-несколькими-монстрами",
+    "title": "Смерть после боя с несколькими монстрами",
+    "text": "В случае смерти после боя с несколькими монстрами игрок не получает НИКАКОГО негативного эффекта от тех монстров, от которых он даже не пытался смыться. [пруф]",
+    "card_refs": [
+      {
+        "slug": "wight-brothers",
+        "title": "Wight Brothers",
+        "url": "https://munchkindb.ru/card/wight-brothers"
+      },
+      {
+        "slug": "king-tut",
+        "title": "King Tut",
+        "url": "https://munchkindb.ru/card/king-tut"
+      },
+      {
+        "slug": "mr-bones",
+        "title": "Mr. Bones",
+        "url": "https://munchkindb.ru/card/mr-bones"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1073799",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1073799",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "смывка",
+    "title": "Смывка",
+    "text": "Смывка не является частью боя. Во время смывки нельзя играть карты, на которых сказано \"Играть в любой бой\". [пруф]\nНельзя добавлять ещё монстров, если игрок объявил, что будет смываться[пруф]",
+    "card_refs": [
+      {
+        "slug": "instant-wall",
+        "title": "Instant Wall",
+        "url": "https://munchkindb.ru/card/instant-wall"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=61275",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=155980",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=61275",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=155980",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "теряешь-головнякброникобувкускакунакорабльнамника",
+    "title": "Теряешь Головняк/Броник/Обувку/Скакуна/Корабль/Намника",
+    "text": "Если сказано \"Теряешь свой Головняк/Броник/Обувку\", то теряешь все свои Головняки/Броники/Обувкув игре (используемые или нет - неважно). Если сказано \"Теряешь надетый Головняк/Броник/Обувку\", то теряешь только используемые Головняки/Броники/Обувку (в том числе с Читом). [пруф] Сесли сказано \"Теряешь Скакуна/Корабль/Наемника\" то ты теряешь их все. [пруф]",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1288547",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1410353",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1288547",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1410353",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "три-порошка-лотоса",
+    "title": "три порошка лотоса",
+    "text": "Если три порошка лотоса сыграны в помощь манчкинам, то монстры считаются убитыми и так можно получить победный уровень. Если три порошка сыграны в помощь монстрам, то манчкины автоматически проигрывают бой и должны перейти к смывке [пруф].",
+    "card_refs": [
+      {
+        "slug": "black-lotus-powder",
+        "title": "Black Lotus Powder",
+        "url": "https://munchkindb.ru/card/black-lotus-powder"
+      },
+      {
+        "slug": "gray-lotus-powder",
+        "title": "Gray Lotus Powder",
+        "url": "https://munchkindb.ru/card/gray-lotus-powder"
+      },
+      {
+        "slug": "purple-lotus-powder",
+        "title": "Purple Lotus Powder",
+        "url": "https://munchkindb.ru/card/purple-lotus-powder"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=113211",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=113211",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "уровень-монстра",
+    "title": "Уровень монстра",
+    "text": "Бонусы/штрафы, зависящие от уровня монстра, зависят только от значения его БАЗОВОГО УРОВНЯ (напечатанного на карте), а не боевой силы. Модификаторы монстров изменяют боевую силу монстра, но не его уровень: [пруф]",
+    "card_refs": [
+      {
+        "slug": "monster-whacker",
+        "title": "Monster Whacker",
+        "url": "https://munchkindb.ru/card/monster-whacker"
+      }
+    ],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=777693&postcount=25",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=777693&postcount=25",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "шмотки-у-наёмника",
+    "title": "Шмотки у Наёмника",
+    "text": "Если дать Наёмнику шмотку, то во всех отношениях считается, что эту шмотку используешь ты сам [пруф].\nЕсли бонус шмотки зависит от класса/расы/пола, то учитывается класс/раса/пол Наёмничка, а не манчкина. Таким образом, если манчкин не-эльф даст Шлем-Рогач Эльфу-Наёмничку, то Шлем будет давать +3, а если манчкин эльф даст Шлем-Рогач наёмничку не-эльфу, то Шлем будет давать +1 [пруф].",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1990740",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1505330",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1990740",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=1505330",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  },
+  {
+    "slug": "щиты-не-оружие",
+    "title": "Щиты - не оружие",
+    "text": "Щит, хоть и использует руку, не является оружием [пруф] Устарело\nСогласно ответу на вопрос про оружие в FAQ от 24 мая 2012 года, щит оружием является (так как занимает руку). Устарело\nЩит не является оружием. Щит - это щит. [пруф]",
+    "card_refs": [],
+    "internal_refs": [],
+    "external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=446298",
+        "title": "[пруф]"
+      },
+      {
+        "url": "http://munchkinizm.narod.ru/FAQ/index.htm#q0210",
+        "title": "вопрос про оружие"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=30199&page=3",
+        "title": "[пруф]"
+      }
+    ],
+    "inline_external_refs": [
+      {
+        "url": "http://forums.sjgames.com/showpost.php?p=446298",
+        "title": "[пруф]",
+        "field": "text"
+      },
+      {
+        "url": "http://munchkinizm.narod.ru/FAQ/index.htm#q0210",
+        "title": "вопрос про оружие",
+        "field": "text"
+      },
+      {
+        "url": "http://forums.sjgames.com/showthread.php?t=30199&page=3",
+        "title": "[пруф]",
+        "field": "text"
+      }
+    ],
+    "comments": []
+  }
+]

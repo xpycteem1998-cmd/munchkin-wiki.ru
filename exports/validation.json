@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "manifest_entries": {
+    "download_manifest.jsonl": 1324,
+    "wayback_download_manifest.jsonl": 3270
+  },
+  "payload_checksums_verified": 4594,
+  "external_payload_checksums_verified": 5,
+  "exports_parsed": {
+    "card_pages.json": 3787,
+    "cards.json": 4049,
+    "comments.json": 41,
+    "munchkin_numbered_sets.json": 3,
+    "pages.json": 6,
+    "rejected_pages.json": 81,
+    "rulings.json": 59,
+    "set_menu.json": 4,
+    "sets.json": 129,
+    "stats.json": 5
+  },
+  "database": {
+    "integrity_check": "ok",
+    "canonical_cards": 4049,
+    "full_card_pages": 3787,
+    "sets": 129,
+    "rulings": 59,
+    "pages": 6,
+    "comments": 41
+  },
+  "control_cards_verified": 8,
+  "ruling_inventory": {
+    "candidate_slugs": 61,
+    "excluded_spam_slugs": 2,
+    "exported_slugs": 59,
+    "substantive_rulings": 54,
+    "faq_aliases": 5,
+    "empty_rulings": [],
+    "empty_pages": [],
+    "missing_slugs": [],
+    "unexpected_slugs": []
+  },
+  "card_inventory": {
+    "candidate_slugs": 3796,
+    "excluded_malformed_slugs": 2,
+    "full_pages": 3787,
+    "set_listing_only_candidates": 7,
+    "canonical_cards": 4049,
+    "missing_slugs": []
+  },
+  "set_inventory": {
+    "candidate_slugs": 129,
+    "exported_slugs": 129,
+    "missing_slugs": [],
+    "unexpected_slugs": []
+  },
+  "failure_count": 0,
+  "failures": []
+}

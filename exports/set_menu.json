@@ -1,0 +1,581 @@
+{
+  "source": {
+    "normalized_url": "https://munchkindb.ru/set/munchkin",
+    "timestamp": "20241105203735",
+    "payload_path": "raw/commoncrawl/OI/OIVCWVQPVBTE5K46V7JHGRJ3GUMOIR54_20241105203735_0944f96da368.html",
+    "digest": "OIVCWVQPVBTE5K46V7JHGRJ3GUMOIR54"
+  },
+  "menu_entries": 104,
+  "aliases": {
+    "adventure-time": "munchkin-adventure-time",
+    "apocalypse": "munchkin-apocalypse",
+    "axe-cop": "munchkin-axe-cop",
+    "demented-dungeon": "demented-dungeons",
+    "fairy-dust": "munchkin-fairy-dust",
+    "munchkin-naughty-nice": "naughty-nice",
+    "munchkin-penny-arcade": "penny-arcade",
+    "munchkin-skullkickers": "skullkickers"
+  },
+  "groups": [
+    {
+      "slug": "munchkin",
+      "label": "Munchkin",
+      "title": "Munchkin",
+      "children": [
+        {
+          "slug": "unnatural-axe",
+          "label": "Unnatural Axe",
+          "title": "Unnatural Axe"
+        },
+        {
+          "slug": "clerical-errors",
+          "label": "Clerical Errors",
+          "title": "Clerical Errors"
+        },
+        {
+          "slug": "the-need-for-steed",
+          "label": "The Need for Steed",
+          "title": "The Need for Steed"
+        },
+        {
+          "slug": "de-ranged",
+          "label": "De-Ranged",
+          "title": "De-Ranged"
+        },
+        {
+          "slug": "demented-dungeons",
+          "label": "Demented Dungeons",
+          "title": "Demented Dungeons"
+        },
+        {
+          "slug": "terrible-tombs",
+          "label": "Terrible Tombs",
+          "title": ""
+        },
+        {
+          "slug": "cheat-with-both-hands",
+          "label": "Cheat With Both Hands",
+          "title": "Cheat With Both Hands"
+        },
+        {
+          "slug": "half-horse-will-travel",
+          "label": "Half Horse, Will Travel",
+          "title": "Half Horse, Will Travel"
+        },
+        {
+          "slug": "boosters",
+          "label": "boosters",
+          "title": "бустеры",
+          "children": [
+            {
+              "slug": "munchkin-fairy-dust",
+              "label": "Fairy Dust",
+              "title": "Fairy Dust"
+            },
+            {
+              "slug": "munchkin-reloaded",
+              "label": "Reloaded!",
+              "title": "Munchkin Reloaded!"
+            },
+            {
+              "slug": "monster-enhancers",
+              "label": "Monster Enhancers",
+              "title": "Monster Enhancers"
+            },
+            {
+              "slug": "munchkin-the-guild",
+              "label": "The Guild",
+              "title": "Munchkin The Guild"
+            },
+            {
+              "slug": "skullkickers",
+              "label": "Skullkickers",
+              "title": "Munchkin Skullkickers"
+            },
+            {
+              "slug": "penny-arcade",
+              "label": "Penny Arcade",
+              "title": "Munchkin Penny Arcade"
+            },
+            {
+              "slug": "munchkin-easter-eggs",
+              "label": "Easter Eggs",
+              "title": "Munchkin Easter Eggs"
+            },
+            {
+              "slug": "munchkin-tricky-treats",
+              "label": "Tricky Treats",
+              "title": "Munchkin Tricky Treats"
+            },
+            {
+              "slug": "munchkin-dragons",
+              "label": "Dragons",
+              "title": "Munchkin Dragons"
+            },
+            {
+              "slug": "dragons-trike",
+              "label": "Dragon's Trike",
+              "title": ""
+            },
+            {
+              "slug": "munchkin-princesses",
+              "label": "Princesses",
+              "title": ""
+            },
+            {
+              "slug": "munchkin-knights",
+              "label": "Knights",
+              "title": ""
+            },
+            {
+              "slug": "munchkin-kittens",
+              "label": "Kittens",
+              "title": ""
+            },
+            {
+              "slug": "munchkin-puppies",
+              "label": "Puppies",
+              "title": ""
+            },
+            {
+              "slug": "munchkin-undead",
+              "label": "Undead",
+              "title": ""
+            },
+            {
+              "slug": "kobolds-ate-my-baby",
+              "label": "Kobolds Ate My Baby",
+              "title": ""
+            },
+            {
+              "slug": "love-shark-baby",
+              "label": "Love Shark Baby",
+              "title": ""
+            },
+            {
+              "slug": "munchkin-hipsters",
+              "label": "Hipsters",
+              "title": ""
+            },
+            {
+              "slug": "munchkin-curses",
+              "label": "Munchkin Curses",
+              "title": ""
+            },
+            {
+              "slug": "munchkin-valentines",
+              "label": "Munchkin Valentines",
+              "title": ""
+            },
+            {
+              "slug": "munchkinomicon",
+              "label": "Munchkinomicon",
+              "title": "Munchkinomicon"
+            }
+          ]
+        },
+        {
+          "slug": "munchkin-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "star-munchkin",
+      "label": "Star",
+      "title": "Star Munchkin",
+      "children": [
+        {
+          "slug": "the-clown-wars",
+          "label": "The Clown Wars",
+          "title": "The Clown Wars"
+        },
+        {
+          "slug": "diplomatic-impunity",
+          "label": "Diplomatic Impunity",
+          "title": ""
+        },
+        {
+          "slug": "space-ships",
+          "label": "Space Ships",
+          "title": "Space Ships"
+        },
+        {
+          "slug": "star-munchkin-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-fu",
+      "label": "Fu",
+      "title": "Munchkin Fu",
+      "children": [
+        {
+          "slug": "monky-business",
+          "label": "Monky Business",
+          "title": "Monky Business"
+        },
+        {
+          "slug": "munchkin-fu-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-bites",
+      "label": "Bites!",
+      "title": "Munchkin Bites!",
+      "children": [
+        {
+          "slug": "pants-macabre",
+          "label": "Pants Macabre",
+          "title": "Pants Macabre"
+        },
+        {
+          "slug": "munchkin-bites-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "super-munchkin",
+      "label": "Super",
+      "title": "Super Munchkin",
+      "children": [
+        {
+          "slug": "the-narrow-s-cape",
+          "label": "The Narrow S Cape",
+          "title": "The Narrow S Cape"
+        },
+        {
+          "slug": "super-munchkin-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-impossible",
+      "label": "Impossible",
+      "title": "Munchkin Impossible",
+      "children": [
+        {
+          "slug": "munchkin-impossible-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-cthulhu",
+      "label": "Cthulhu",
+      "title": "Munchkin Cthulhu",
+      "children": [
+        {
+          "slug": "call-of-cowthulhu",
+          "label": "Call of Cowthulhu",
+          "title": "Call of Cowthulhu"
+        },
+        {
+          "slug": "the-unspeakable-vault",
+          "label": "The Unspeakable Vault",
+          "title": "The Unspeakable Vault"
+        },
+        {
+          "slug": "crazed-caverns",
+          "label": "Crazed Caverns",
+          "title": "Crazed Caverns"
+        },
+        {
+          "slug": "munchkin-cthulhu-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "the-good-the-bad-and-the-munchkin",
+      "label": "The Good the Bad...",
+      "title": "The Good the Bad and the Munchkin",
+      "children": [
+        {
+          "slug": "beating-a-dead-horse",
+          "label": "Beating a Dead Horse",
+          "title": "Beating a Dead Horse"
+        },
+        {
+          "slug": "the-good-the-bad-and-the-munchkin-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-booty",
+      "label": "Booty",
+      "title": "Munchkin Booty",
+      "children": [
+        {
+          "slug": "jump-the-shark",
+          "label": "Jump the Shark",
+          "title": "Jump the Shark"
+        },
+        {
+          "slug": "fish-ships",
+          "label": "Fish & Ships",
+          "title": "Fish & Ships"
+        },
+        {
+          "slug": "munchkin-booty-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-zombies",
+      "label": "Zombies",
+      "title": "Munchkin Zombies",
+      "children": [
+        {
+          "slug": "armed-and-dangerous",
+          "label": "Armed and Dangerous",
+          "title": "Armed and Dangerous"
+        },
+        {
+          "slug": "hideous-hideouts",
+          "label": "Hideous Hideouts",
+          "title": "Hideous Hideouts"
+        },
+        {
+          "slug": "spare-parts",
+          "label": "Spare Parts",
+          "title": "Munchkin Zombies 4 – Spare Parts"
+        },
+        {
+          "slug": "the-walking-dead",
+          "label": "The Walking Dead",
+          "title": ""
+        },
+        {
+          "slug": "munchkin-zombies-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-axe-cop",
+      "label": "Axe Cop",
+      "title": ""
+    },
+    {
+      "slug": "munchkin-conan",
+      "label": "Conan",
+      "title": "Munchkin Conan",
+      "children": [
+        {
+          "slug": "conan-the-barbarian",
+          "label": "Conan the Barbarian",
+          "title": "Conan the Barbarian"
+        },
+        {
+          "slug": "munchkin-conan-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-apocalypse",
+      "label": "Apocalypse",
+      "title": "Apocalypse",
+      "children": [
+        {
+          "slug": "sheep-impact",
+          "label": "Sheep Impact",
+          "title": "Munchkin Apocalypse 2 – Sheep Impact"
+        },
+        {
+          "slug": "mars-attacks",
+          "label": "Mars Attacks!",
+          "title": "Munchkin Apocalypse: Mars Attacks!"
+        },
+        {
+          "slug": "judge-dredd",
+          "label": "Judge Dredd",
+          "title": ""
+        },
+        {
+          "slug": "munchkin-apocalypse-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-legends",
+      "label": "Legends",
+      "title": "Munchkin Legends",
+      "children": [
+        {
+          "slug": "faun-and-games",
+          "label": "Faun and Games",
+          "title": "Munchkin Legends 2 – Faun and Games"
+        },
+        {
+          "slug": "myth-prints",
+          "label": "Myth Prints",
+          "title": "Munchkin Legends 3 – Myth Prints"
+        },
+        {
+          "slug": "munchkin-legends-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-pathfinder",
+      "label": "Pathfinder",
+      "title": "Munchkin Pathfinder",
+      "children": [
+        {
+          "slug": "gobsmacked",
+          "label": "Gobsmacked!",
+          "title": "Munchkin Pathfinder: Gobsmacked!"
+        },
+        {
+          "slug": "truly-gobnoxious",
+          "label": "Truly Gobnoxious",
+          "title": ""
+        },
+        {
+          "slug": "munchkin-pathfinder-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-adventure-time",
+      "label": "Adventure Time",
+      "title": "",
+      "children": [
+        {
+          "slug": "its-a-dungeon-crawl",
+          "label": "It's a Dungeon Crawl!",
+          "title": ""
+        },
+        {
+          "slug": "munchkin-adventure-time-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-steampunk",
+      "label": "Steampunk",
+      "title": "Munchkin Steampunk",
+      "children": [
+        {
+          "slug": "munchkin-steampunk-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-oz",
+      "label": "Oz",
+      "title": "Munchkin Oz",
+      "children": [
+        {
+          "slug": "yellow-brick-raid",
+          "label": "Yellow Brick Raid",
+          "title": ""
+        },
+        {
+          "slug": "oz-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "munchkin-the-nightmare-before-christmas",
+      "label": "The Nightmare Before Christmas",
+      "title": "Munchkin The Nightmare Before Christmas"
+    },
+    {
+      "slug": "munchkin-christmas-lite",
+      "label": "Christmas Lite",
+      "title": "Munchkin Christmas Lite",
+      "children": [
+        {
+          "slug": "santas-revenge",
+          "label": "Santa's Revenge",
+          "title": "Santa's Revenge"
+        },
+        {
+          "slug": "waiting-for-santa",
+          "label": "Waiting For Santa",
+          "title": "Waiting For Santa"
+        },
+        {
+          "slug": "reindeer-games",
+          "label": "Reindeer Games",
+          "title": "Reindeer Games"
+        },
+        {
+          "slug": "naughty-nice",
+          "label": "Naughty & Nice",
+          "title": "Munchkin Naughty & Nice"
+        },
+        {
+          "slug": "munchkin-christmas-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "marvel-edition",
+      "label": "Marvel",
+      "title": "Munchkin: Marvel Edition",
+      "children": [
+        {
+          "slug": "cosmic-chaos",
+          "label": "Cosmic Chaos",
+          "title": ""
+        },
+        {
+          "slug": "mystic-mayhem",
+          "label": "Mystic Mayhem",
+          "title": ""
+        },
+        {
+          "slug": "marvel-edition-promo",
+          "label": "Promo",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "slug": "moops-monster-mashup",
+      "label": "Moop's Monster Mashup",
+      "title": ""
+    },
+    {
+      "slug": "munchkin-grimm-tidings",
+      "label": "Munchkin Grimm Tidings",
+      "title": ""
+    }
+  ]
+}

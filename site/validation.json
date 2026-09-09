@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "html_pages": 4290,
+  "search_records": 4182,
+  "visible_sets": 73,
+  "faq_entries": 59,
+  "faq_rulings": 53,
+  "faq_groups": 8,
+  "ruling_redirects": 6,
+  "legacy_ruling_redirects": 59,
+  "numbered_sets": 11,
+  "supplemental_sets": 2,
+  "empty_sets_removed": 50,
+  "internal_references_checked": 68444,
+  "inline_proof_links": 914,
+  "qa_items": 158,
+  "errors": []
+}

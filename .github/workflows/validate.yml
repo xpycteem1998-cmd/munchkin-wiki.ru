@@ -1,0 +1,24 @@
+name: Validate static site
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    strategy:
+      matrix:
+        python-version: ['3.12', '3.13']
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Build from portable exports
+        run: python scripts/build_site.py
+      - name: Validate every page and internal anchor
+        run: python scripts/validate_site.py
+      - name: Content regression tests
+        run: python -m unittest discover -s tests -v
+      - name: Firefox interaction tests
+        if: matrix.python-version == '3.12'
+        run: python scripts/test_browser.py
